@@ -1,0 +1,3 @@
+[submodule "napp.alloy.adapter.restapi"]
+	path = napp.alloy.adapter.restapi
+	url = https://github.com/viezel/napp.alloy.adapter.restapi.git
