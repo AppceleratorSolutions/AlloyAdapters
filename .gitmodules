@@ -1,3 +1,21 @@
 [submodule "napp.alloy.adapter.restapi"]
 	path = napp.alloy.adapter.restapi
 	url = https://github.com/viezel/napp.alloy.adapter.restapi.git
+[submodule "napp.alloy.adapter.restsql"]
+	path = napp.alloy.adapter.restsql
+	url = https://github.com/viezel/napp.alloy.adapter.restsql.git
+[submodule "Alloy-Parse-Adapter"]
+	path = Alloy-Parse-Adapter
+	url = git://github.com/centogram/Alloy-Parse-Adapter.git
+[submodule "ci.alloy.cloudmine.books"]
+	path = ci.alloy.cloudmine.books
+	url = git://github.com/aaronksaunders/ci.alloy.cloudmine.books.git
+[submodule "Alloy-StackMob-Adapter"]
+	path = Alloy-StackMob-Adapter
+	url = git://github.com/aaronksaunders/Alloy-StackMob-Adapter.git
+[submodule "acs"]
+	path = acs
+	url = git://github.com/aaronksaunders/ci.alloy.adapter.two.git
+[submodule "alloy-ti_touchdb"]
+	path = alloy-ti_touchdb
+	url = git://github.com/pegli/alloy-ti_touchdb.git
